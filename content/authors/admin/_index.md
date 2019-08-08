@@ -14,7 +14,7 @@ education:
   - course: BA in Music
     institution: University of North Carolina at Chapel Hill
     year: 2018
-email: ""
+email: "clawsonsa1101@gmail.com"
 interests:
 - Data Science
 - Fisheries Management
@@ -39,5 +39,5 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+I am a current Master's student at the [Bren School of Environmental Science and Management](https://www.bren.ucsb.edu/). My specialization is Coastal Marine Resources Management, with a focus in Environmental Data Science. My interests and research revolve around small scale fisheries management and ocean health. Currently, I work with a team of scientists at [The National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) on a project called the [Ocean Health Index](http://www.oceanhealthindex.org/).  
 
